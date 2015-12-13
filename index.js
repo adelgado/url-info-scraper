@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 var request = require('request'),
   metadata = require('./lib/metadata'),
   httpPrefixer = require('./lib/httpPrefixer'),
